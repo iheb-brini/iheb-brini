@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Iheb Brini</h1>
 <h3 align="center">Ph.D student at ENISo</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iheb-brini&label=Profile%20views&color=0e75b6&style=flat" alt="iheb-brini" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iheb-brini" alt="iheb-brini" /></a> </p>
 
 - 🔭 I’m currently working on **working on Explainable Deep models for Archival document Image analysis**
@@ -24,3 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iheb-brini&show_icons=true&locale=en" alt="iheb-brini" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iheb-brini&" alt="iheb-brini" /></p>
